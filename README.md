@@ -8,3 +8,7 @@ Example on how to manage secretes
 2. Get your key from `https://app.api/account/keys`
 3. Visit `https://app.api/docs` for endpoints
 4. Enter username, key and target endpoint in `.env`
+
+
+
+Result: https://alexvedt.github.io/managing-secrets/
